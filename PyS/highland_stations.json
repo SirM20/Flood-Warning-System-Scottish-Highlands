@@ -1,0 +1,167 @@
+[
+    {
+        "name": "Affric Lodge",
+        "lat": 57.26272622,
+        "lon": -5.005979754
+    },
+    {
+        "name": "Allnabad",
+        "lat": 58.34717676,
+        "lon": -4.644621014
+    },
+    {
+        "name": "Allt Dearg House",
+        "lat": 57.28490502,
+        "lon": -6.187008123
+    },
+    {
+        "name": "Badbea",
+        "lat": 57.86243941,
+        "lon": -5.318746664
+    },
+    {
+        "name": "Braeroy Lodge",
+        "lat": 56.98511362,
+        "lon": -4.738585589
+    },
+    {
+        "name": "Cluanie Inn",
+        "lat": 57.15628843,
+        "lon": -5.181590945
+    },
+    {
+        "name": "Coignafearn",
+        "lat": 57.23285188,
+        "lon": -4.139289943
+    },
+    {
+        "name": "Coille Mhorgil",
+        "lat": 57.0643694,
+        "lon": -5.134923813
+    },
+    {
+        "name": "Corrimony",
+        "lat": 57.33501743,
+        "lon": -4.699729622
+    },
+    {
+        "name": "Dingwall",
+        "lat": 57.59992025,
+        "lon": -4.446997097
+    },
+    {
+        "name": "Dosmucheran",
+        "lat": 57.59587318,
+        "lon": -5.005770119
+    },
+    {
+        "name": "Dundreggan Rain Gauge",
+        "lat": 57.19161541,
+        "lon": -4.767634199
+    },
+    {
+        "name": "Flichity",
+        "lat": 57.33128618,
+        "lon": -4.221750189
+    },
+    {
+        "name": "Forsinain",
+        "lat": 58.41100711,
+        "lon": -3.873563607
+    },
+    {
+        "name": "Garrogie Lodge",
+        "lat": 57.17006125,
+        "lon": -4.442843871
+    },
+    {
+        "name": "Glen Nevis",
+        "lat": 56.79923208,
+        "lon": -5.067543348
+    },
+    {
+        "name": "Halkirk",
+        "lat": 58.5154974,
+        "lon": -3.493004244
+    },
+    {
+        "name": "Inchvuilt",
+        "lat": 57.40830735,
+        "lon": -4.957620811
+    },
+    {
+        "name": "Inverewe Garden",
+        "lat": 57.77399694,
+        "lon": -5.596995718
+    },
+    {
+        "name": "Killilan",
+        "lat": 57.31881832,
+        "lon": -5.424835603
+    },
+    {
+        "name": "Knockanrock",
+        "lat": 58.03118174,
+        "lon": -5.07294078
+    },
+    {
+        "name": "Little Assynt",
+        "lat": 58.17438109,
+        "lon": -5.152302768
+    },
+    {
+        "name": "Loch Ailsh Level",
+        "lat": 58.04827715,
+        "lon": -4.855312073
+    },
+    {
+        "name": "Loch Droma",
+        "lat": 57.73309629,
+        "lon": -4.936434641
+    },
+    {
+        "name": "Luib",
+        "lat": 57.5445048,
+        "lon": -5.123945869
+    },
+    {
+        "name": "New Kelso",
+        "lat": 57.42953514,
+        "lon": -5.429999168
+    },
+    {
+        "name": "Polloch",
+        "lat": 56.75844885,
+        "lon": -5.613663683
+    },
+    {
+        "name": "Rhian Bridge",
+        "lat": 58.11499626,
+        "lon": -4.439159665
+    },
+    {
+        "name": "Rhiconich",
+        "lat": 58.42139172,
+        "lon": -4.991227379
+    },
+    {
+        "name": "Scardroy No3",
+        "lat": 57.51892459,
+        "lon": -4.985935657
+    },
+    {
+        "name": "Sgodachail",
+        "lat": 57.89327664,
+        "lon": -4.546976399
+    },
+    {
+        "name": "Strathy Bridge",
+        "lat": 58.55872143,
+        "lon": -4.002604762
+    },
+    {
+        "name": "Urquhart",
+        "lat": 57.59399199,
+        "lon": -4.374371661
+    }
+]
